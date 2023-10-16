@@ -82,3 +82,6 @@
 <li>🔵 Keep in mind that the links embedded in the image might become outdated over time, so for the latest links, please refer to Medium or GitHub.</li>
 </ul>
 
+<h4><a href="https://medium.com/@KeivanDamirchi/net-pro-techniques-tips-packages-templates-55a00b03cdff">📗 Medium </a> </h4>
+<h4><a href="https://medium.com/@KeivanDamirchi/net-pro-techniques-tips-packages-templates-55a00b03cdff">📓 Linkedin </a> </h4>
+
