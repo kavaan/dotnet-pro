@@ -30,6 +30,39 @@
   <li><a href="https://microservices.io/patterns/apigateway.html">API Gateway</a></li>
   <li><a href="https://dzone.com/articles/microservices-architectures-what-is-fault-toleranc">Fault Tolerance</a></li>
 </u>
+<h3><NuGet Packages/h3>
+<h4>Documents</h4>
+<ul>
+  <li><a href="https://github.com/dotnet/Open-XML-SDK">OpenXML SDK</a></li>
+  <li><a href="https://github.com/ststeiger/PdfSharpCore">PdfSharpCore </a></li>
+</ul>
+<h4>Strings</h4>
+<ul>
+  <li><a href="https://github.com/Humanizr/Humanizer">Humanizer </a></li>
+  <li><a href="https://github.com/Entomy/LibLangly">Stringier </a></li>
+</ul>
+<h4>API Calls</h4>
+<ul>
+  <li><a href="https://github.com/canton7/RestEase">RestEase </a></li>
+  <li><a href="https://github.com/reactiveui/refit">Refit </a></li>
+  <li><a href="https://github.com/tmenier/Flurl">Flurl.Http </a></li>
+</ul>
+<h4>Encryption</h4>
+<ul>
+  <li><a href="https://github.com/bcgit/bc-csharp">BouncyCastle </a></li>
+  <li><a href="https://github.com/myloveCc/NETCore.Encrypt">NETCore.Encrypt</a></li>
+  <li><a href="https://github.com/ChrisMcKee/cryptsharp">CryptSharp </a></li>
+</ul>
+<h4>Mocking</h4>
+<ul>
+  <li><a href="https://github.com/devlooped/moq">Moq </a></li>
+  <li><a href="https://github.com/FakeItEasy/FakeItEasy">FakeItEasy </a></li>
+</ul>
+<h4>Validation</h4>
+<ul>
+  <li><a href="https://github.com/FluentValidation/FluentValidation">FluentValidation </a></li>
+  <li><a href="https://github.com/valit-stack/Valit">Valit </a></li>
+</ul>
 <hr/>
 <h3>Clean Architecture Solution Template</h3>
 <u>
