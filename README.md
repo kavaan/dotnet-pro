@@ -18,64 +18,32 @@
   <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-scenarios">Async/Await </a></li>
   <li><a href="https://dotnetcorecentral.com/blog/reactive-extensions-in-net-core"> Reactive Extensions (Rx)</a></li>
 </u>
+<hr/>
+<h3>API Security Tips</h3>
+<u>
+  <li><a href="https://www.syncfusion.com/blogs/post/10-practices-secure-asp-net-core-mvc-app.aspx">Security tips</a></li>
+</u>
+<hr/>
+<h3>Microservices Tips</h3>
+<u>
+  <li><a href="https://www.ben-morris.com/how-big-is-a-microservice">Services Size </a></li>
+  <li><a href="https://microservices.io/patterns/apigateway.html">API Gateway</a></li>
+  <li><a href="https://dzone.com/articles/microservices-architectures-what-is-fault-toleranc">Fault Tolerance</a></li>
+</u>
+<hr/>
+<h3>Clean Architecture Solution Template</h3>
+<u>
+  <li><a href="https://github.com/jasontaylordev/CleanArchitecture"> First Project</a></li>
+  <li><a href="https://github.com/ardalis/CleanArchitecture">Second Project</a></li>
+</u>
+<hr/>
 
-1-1- Caching
-1-1-1- Redis [https://www.c-sharpcorner.com/article/implementation-of-the-redis-cache-in-the-net-core-api]
-1-1-2- In-Memory Cache
- [https://learn.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-7.0]
+<img src="https://github.com/kavaan/dotnet-pro/blob/main/final5.png?raw=true" />
 
-1-2- Load Balancing
-1-2-1- Nginx [https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-7.0&tabs=linux-ubuntu]
-1-2-2- Azure Load Balancers [https://winsmarts.com/aspnet-core-azure-ad-authentication-and-load-balancers-e458f5ef54c6]
+<h2>Key Points to Consider:</h2>
+<ul>
+<li>🔵 The items mentioned are simply a collection of keywords and minute details that require more in-depth study for a better understanding.</li>
+<li>🔵 To stay updated with recommendations on .NET related tools, techniques, and tips, please visit the GitHub link provided.</li>
+<li>🔵 Keep in mind that the links embedded in the image might become outdated over time, so for the latest links, please refer to Medium or GitHub.</li>
+</ul>
 
-1-3- Asynchronous Programming
-1-3-1- Async/Await [https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-scenarios]
-1-3-2- Reactive Extensions (Rx) [https://dotnetcorecentral.com/blog/reactive-extensions-in-net-core]
-
-2- API Security Tips
- Security tips [https://www.syncfusion.com/blogs/post/10-practices-secure-asp-net-core-mvc-app.aspx]
-
-3- Microservices Tips:
-3-1- Services Size [https://www.ben-morris.com/how-big-is-a-microservice]
-3-2- API Gateway [https://microservices.io/patterns/apigateway.html]
-3-3- Fault Tolerance [https://dzone.com/articles/microservices-architectures-what-is-fault-toleranc]
-
-4- NuGet Packages:
-4-1- Documents:
-4-1-1- OpenXML SDK [https://github.com/dotnet/Open-XML-SDK]
-4-1-2- PdfSharpCore [https://github.com/ststeiger/PdfSharpCore]
-
-4-2- Strings
-4-2-1- Humanizer [https://github.com/Humanizr/Humanizer]
-4-2-2- Stringier [https://github.com/Entomy/LibLangly]
-
-4-3- API Calls
-4-3-1- RestEase [https://github.com/canton7/RestEase]
-4-3-2- Refit [https://github.com/reactiveui/refit]
-4-3-3-  Flurl.Http [https://github.com/tmenier/Flurl]
-
-4-4- Encryption
-4-4-1- BouncyCastle [https://github.com/bcgit/bc-csharp]
-4-4-2- NETCore.Encrypt [https://github.com/myloveCc/NETCore.Encrypt]
-4-4-3- CryptSharp [https://github.com/ChrisMcKee/cryptsharp]
-
-4-5- Mocking
-4-5-1- Moq [https://github.com/devlooped/moq]
-4-5-2- FakeItEasy [https://github.com/FakeItEasy/FakeItEasy]
-
-4-6- Validation
-4-6-1- FluentValidation [https://github.com/FluentValidation/FluentValidation]
-4-6-2- Valit [https://github.com/valit-stack/Valit]
-
-5- Clean Architecture Solution Template:
-5-1- First Project [https://github.com/jasontaylordev/CleanArchitecture]
-5-2- Second Project [https://github.com/ardalis/CleanArchitecture]
-
-<img src="" />
-
-Key Points to Consider:
-🔵 The items mentioned are simply a collection of keywords and minute details that require more in-depth study for a better understanding.
-🔵 To stay updated with recommendations on .NET related tools, techniques, and tips, please visit the GitHub link provided.
-🔵 Keep in mind that the links embedded in the image might become outdated over time, so for the latest links, please refer to Medium or GitHub.
-
-[If you know other tools or tips that help the development process of a .Net software, be sure to introduce it in the comments section.]
